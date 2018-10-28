@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/beeps">
+        <file>be.wav</file>
+        <file>bu3.wav</file>
+        <file>bu5.wav</file>
+        <file>bu9.wav</file>
+    </qresource>
+</RCC>
